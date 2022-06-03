@@ -77,8 +77,7 @@ MY ![Visitor Count](https://profile-counter.glitch.me/GaryGuTC/count.svg) VISITO
 
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryGuTC)](https://github.com/GaryGuTC/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGuTC&show_icons=true&theme=tokyonight)
+![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGuTC&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryGuTC&layout=compact)
 
-![](https://raw.githubusercontent.com/GaryGuTC/GaryGuTC/output/github-contribution-grid-snake.svg)
