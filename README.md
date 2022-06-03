@@ -1,5 +1,19 @@
+<!-- <div align="center">
+  <img src="https://octodex.github.com/images/surftocat.png" width="320" height="320">
+</div>
+ -->
+<img align="right" alt="PNG" src="https://octodex.github.com/images/surftocat.png" width="320" height="320"/>
+
+### I'm GaryGU
+- A Computer Engineering Undergraduate Student.
+- 🌱 Currently Studying in Australia.
+- 🌱 Leetcoder & Kaggler & Algorithmer.
+
+## Visitor Status
+MY ![Visitor Count](https://profile-counter.glitch.me/GaryGuTC/count.svg) VISITORS
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- <table><tr><td valign="top" width="33%"> -->
 
 
 
@@ -9,7 +23,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
 
@@ -23,7 +37,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
 
@@ -37,7 +51,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
 </div>
 
-</td></tr></table>  
+<!-- </td></tr></table>   -->
 
 <br/>  
 
