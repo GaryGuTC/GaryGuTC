@@ -4,7 +4,7 @@
  -->
 <img align="right" alt="PNG" src="https://octodex.github.com/images/surftocat.png" width="320" height="320"/>
 
-### I'm GaryGU
+## I'm GaryGU
 - A Computer Engineering Undergraduate Student.
 - 🌱 Currently Studying in Australia.
 - 🌱 Leetcoder & Kaggler & Algorithmer.
@@ -78,8 +78,10 @@ MY ![Visitor Count](https://profile-counter.glitch.me/GaryGuTC/count.svg) VISITO
 
 ## Github Stats  
 
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGuTC&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryGuTC&layout=compact)
+![GaryGuTC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGuTC&show_icons=true)
+
+![GaryGuTC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryGuTC&layout=compact)
+
 
 ## Contributions 
 ![](https://raw.githubusercontent.com/GaryGuTC/GaryGuTC/main/assets/github-contribution-grid-snake.svg)              
