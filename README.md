@@ -5,7 +5,7 @@
 <img align="right" alt="PNG" src="https://octodex.github.com/images/surftocat.png" width="320" height="320"/>
 
 ## I'm GaryGU
-- A Computer Engineering Undergraduate Student.
+- A Computer Engineering Student.
 - 🌱 Currently Studying in Australia.
 - 🌱 Leetcoder & Kaggler & Algorithmer.
 
