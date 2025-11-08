@@ -1,18 +1,9 @@
-<!-- <div align="center">
-  <img src="https://octodex.github.com/images/surftocat.png" width="320" height="320">
-</div>
- -->
-<img align="right" alt="PNG" src="https://octodex.github.com/images/surftocat.png" width="320" height="320"/>
+## 👨‍🎓 About Me 👋
 
-## I'm GaryGU
-- A Computer Engineering Student.
-- 🌱 Currently Studying in Australia.
-- 🌱 Leetcoder & Kaggler & Algorithmer.
+<img align="right" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=GaryGuTC&include_orgs=true&theme=tokyonight" alt="TianchengGu's GitHub stats" height="185px" /> Hi! I'm **Tiancheng Gu**.
 
-## Visitor Status
-MY ![Visitor Count](https://profile-counter.glitch.me/GaryGuTC/count.svg) VISITORS
+I'm currently a **Ph.D. Student** (2023~Now) at The University of Sydney.
 
+🔬 My Research Focus on: Medical Radiology Report Generation | CLIP pretraining | MLLM-based Embedding Model | MLLM & LVLM
 
-## Github Stats  
-
-![GaryGuTC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryGuTC&show_icons=true)
+📫 Contact: 📧 [Email](mailto:gtcivy01@outlook.com) | 💼 [Linkedin](https://www.linkedin.com/in/tiancheng-gu-721437255) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=9etrpbYAAAAJ)
